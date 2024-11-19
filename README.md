@@ -1,0 +1,1 @@
+Factory Management System este o aplicație GUI simplă dezvoltată în Python folosind biblioteca tkinter. Aplicația gestionează operațiuni de bază pentru o fabrică, precum administrarea produselor, angajaților și comenzilor. De asemenea, permite utilizatorilor să consulte prețurile materiilor prime printr-un API extern.
